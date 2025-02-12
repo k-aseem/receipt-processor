@@ -13,6 +13,10 @@ The API follows the provided specification, including custom error messages:
 - **Bad Request (400):** "The receipt is invalid."
 - **Not Found (404):** "No receipt found for that ID."
 
+## Challenge Details
+
+Challenge details can be found here: [Fetch Rewards Receipt Processor Challenge](https://github.com/fetch-rewards/receipt-processor-challenge).
+
 ## Technologies Used
 
 - **Java 17** (using Amazon Corretto 17)

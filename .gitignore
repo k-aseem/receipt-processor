@@ -2,6 +2,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### MacOS ###
+.DS_Store
+
 ### VS Code ###
 .vscode/
 
