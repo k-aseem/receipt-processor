@@ -1,0 +1,9 @@
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### VS Code ###
+.vscode/
+
+### Challenge Details Files ###
+tasks.txt
